@@ -6,3 +6,4 @@ flask
 streamlit
 pickle-mixin
 uvicorn
+httpx
