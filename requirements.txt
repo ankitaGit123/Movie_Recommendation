@@ -5,3 +5,4 @@ nltk
 flask
 streamlit
 pickle-mixin
+uvicorn
